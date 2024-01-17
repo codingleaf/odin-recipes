@@ -1,0 +1,15 @@
+h1, h2, h3 {
+  text-align: center;
+  background-color: rgb(226, 226, 65);
+  border-radius: 10px;
+}
+
+.img-div {
+  display: flex;
+  justify-content: center;
+}
+
+.moussaka-img {
+  width: 500px;
+  height: auto;
+}

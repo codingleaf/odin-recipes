@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  background-color: rgb(235, 221, 94);
+  border-radius: 10px;
+}
+
+.recipes {
+  border: 5px;
+  border-style: double;
+  border-color: black;
+}
