@@ -1,6 +1,11 @@
+h1 {
+  font-size: 3rem;
+}
+
 h1, h2, h3 {
+  padding: 8px;
   text-align: center;
-  background-color: rgb(226, 226, 65);
+  background-color: rgb(235, 221, 94);
   border-radius: 10px;
 }
 
